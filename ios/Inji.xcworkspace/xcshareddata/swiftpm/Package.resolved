@@ -79,7 +79,7 @@
       "location" : "https://github.com/inji/inji-openid4vp-ios-swift.git",
       "state" : {
         "branch" : "release-0.7.x",
-        "revision" : "c9e7ee518fff30034a2864653fcb32b32a093072"
+        "revision" : "b5d0cd00b726ffef428e7e5d95d75fc094da07f3"
       }
     },
     {
@@ -96,8 +96,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/inji/inji-vci-client-ios-swift",
       "state" : {
-        "branch" : "release-0.7.x",
-        "revision" : "713a60d4138605871429673ebfcda0e4f1d7dd1f"
+        "branch" : "develop",
+        "revision" : "46e977b7041d871da8f6d217c3d9ccb4743baec0"
       }
     },
     {
@@ -132,8 +132,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/mosip/secure-keystore-ios-swift",
       "state" : {
-        "revision" : "1ea5182ca985302d11010b7a16ea496167969ab3",
-        "version" : "0.3.0"
+        "branch" : "develop",
+        "revision" : "0b73f3e520bcde43cfd4fb460333a19c581599ca"
       }
     },
     {
